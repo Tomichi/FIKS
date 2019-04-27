@@ -23,7 +23,7 @@ int main(void)
 	}
 	
 	if (corect || (breaks == 1 && first >= load)) {
-		cout << "Lze preskaldat\n";
+		cout << "Lze preskladat\n";
 	} else {
 		cout << "Nelze preskladat\n";
 	}
